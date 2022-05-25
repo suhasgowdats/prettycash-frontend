@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.image{
+  height: 60px;
+  width: auto;
+}
+
+.nav-ul{
+  list-style-type: none;
+}
+
+.nav-ul,li{
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+li:hover{
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 20px 0 0 20px;
+}
